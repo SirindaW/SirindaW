@@ -5,7 +5,7 @@
 
 <div style="display:flex;">
   <img src='https://github-readme-stats.vercel.app/api?username=SirindaW&hide=issues&count_private=true&show_icons=true&theme=bear' width='50%'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SirindaW&layout=compact&theme=bear&card_width=350' width='41%'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SirindaW&layout=compact&theme=bear&card_width=350' width='42%'>
 </div>
 <h3>🧰⚙ Languages and Tools :</h3>
 <div style="display:flex;">
