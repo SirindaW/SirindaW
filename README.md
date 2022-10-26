@@ -1,13 +1,18 @@
-<h1 align="center" style="color:#c13879;background-color:#1f2023;border-style:solid;outline:2px solid;text-shadow: 2px 2px 0px White;"> Hi there, I'm Sirinda 😘</h1>
+<h1 align="center" style="color:#c13879;background-color:#1f2023;border-style:solid;outline:2px solid;text-shadow: 2px 2px 0px White;"> Hi there, I'm Sirinda 👋😄</h1>
 
-- 🏫 I’m currently studying at KMITL as Computer Engineering
-- 📫 How to reach me **sirindawang@gmail.com**
+### 🏫 Where am I currently studying
+- I'm a 3rd year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th)
 
-<div style="display:flex;">
-  <img src='https://github-readme-stats.vercel.app/api?username=SirindaW&hide=issues&count_private=true&show_icons=true&theme=bear' width='50%'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SirindaW&layout=compact&theme=bear&card_width=350' width='42%'>
-</div>
-<h3>🧰⚙ Languages and Tools :</h3>
+### 🌱 What am I currently learning
+- TypeScript
+- Frontend: Angular, React Next.js
+- Backend: ASP.NET, C#(.NET)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirindaW&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirindaW&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🧰⚙ Languages and Tools
+
 <div style="display:flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
@@ -25,3 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
 </div>
+
+### 📬 Contact me
+- Email : **sirindawang@gmail.com**
+- Linkedin : [Sirinda Wangfaen](https://www.linkedin.com/in/sirinda-wangfaen-48b0a524b/)
