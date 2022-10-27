@@ -3,6 +3,16 @@
 ### 🏫 Where am I currently studying
 - I'm a 3rd year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th)
 
+### ✔ What have I done
+- Card game "[GinRummy](https://github.com/SirindaW/GinRummy.git)" using Java (OOP) 
+- Phone case store web application "[iCase](https://github.com/SirindaW/DataStructProject.git)" front-end using HTML, CSS and JavaScript
+- Blog web application "[DekKMITL](https://github.com/SirindaW/DekKMITL-webapp.git)" front-end using HTML, CSS and JavaScript
+- Blog web application "[Vision](https://github.com/SirindaW/myWebApp.git)" front-end using React Redux and Material-UI and back-end using NodeJs, ExpressJs and MongoDB
+
+### 🔥 What am I currently working on
+- Hotel booking web application "[Chandra Booking](https://github.com/SirindaW/chandra-booking-webapp-frontend.git)" front-end using React Redux, Tailwind and Material-UI
+- Hotel managing web application "[Chandra Managing](https://github.com/SirindaW/chandra-management-webapp-frontend.git)" front-end using React Redux, Tailwind and Material-UI
+
 ### 🌱 What am I currently learning
 - TypeScript
 - Frontend: Angular, React Next.js
