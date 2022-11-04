@@ -14,7 +14,6 @@
 - Hotel managing web application "[Chandra Managing](https://github.com/SirindaW/chandra-management-webapp-frontend.git)" front-end using React Redux, Tailwind and Material-UI
 
 ### 🌱 What am I currently learning
-- TypeScript
 - Frontend: Angular, React Next.js
 - Backend: C#(.NET)
 
