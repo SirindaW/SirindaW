@@ -12,7 +12,9 @@
 - Hotel managing web application "[Chandra Managing](https://github.com/SirindaW/chandra-management-webapp-frontend.git)" front-end using React Redux, Tailwind and Material-UI
 <!-- ### 🔥 What am I currently working on -->
 ### 🌱 What am I currently learning
-- TypeScript, Next.js, C#(.NET), Scala
+- TypeScript
+- Next.js
+- C#(.NET), Scala
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirindaW&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirindaW&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
