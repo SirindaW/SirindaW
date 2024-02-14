@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#c13879;background-color:#1f2023;border-style:solid;outline:2px solid;text-shadow: 2px 2px 0px White;"> Hi there, I'm Sirinda 👋😄</h1>
 
 ### 🏫 Where am I currently studying
-- I'm a 3rd year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th)
+- I'm a 4th year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th)
 
 ### ✔ What have I done
 - Card game "[GinRummy](https://github.com/SirindaW/GinRummy.git)" using Java (OOP) 
